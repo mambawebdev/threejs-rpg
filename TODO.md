@@ -6,6 +6,7 @@
   - [x] Rock - Add Rocks
   - [x] Bushes - Add Bushes
   - [x] Prevent object collision
+  - [ ] Add controls to UI for world (lil-gui)
 - [ ] Player Character
   - [ ] Draw character on the screen
   - [ ] Point and click controls
