@@ -2,9 +2,9 @@
 
 - [ ] Overworld
   - [x] Terrain - Flat plane
-  - [ ] Trees
-  - [ ] Rock
-  - [ ] Bushes
+  - [x] Trees - Add Trees
+  - [ ] Rock - Add Rocks
+  - [ ] Bushes - Add Bushes
 - [ ] Player Character
   - [ ] Draw character on the screen
   - [ ] Point and click controls
