@@ -1,10 +1,11 @@
 # To do list
 
-- [ ] Overworld
+- [x] World
   - [x] Terrain - Flat plane
   - [x] Trees - Add Trees
-  - [ ] Rock - Add Rocks
-  - [ ] Bushes - Add Bushes
+  - [x] Rock - Add Rocks
+  - [x] Bushes - Add Bushes
+  - [x] Prevent object collision
 - [ ] Player Character
   - [ ] Draw character on the screen
   - [ ] Point and click controls
